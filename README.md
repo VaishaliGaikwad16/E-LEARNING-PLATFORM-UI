@@ -47,3 +47,8 @@ In conclusion, this E-Learning Platform UI demonstrates the use of modern web de
 
 
 #OUTPUT
+
+<img width="1365" height="644" alt="Image" src="https://github.com/user-attachments/assets/21508647-d509-4be7-a6ba-32cf7fdb029f" />
+<img width="1360" height="613" alt="Image" src="https://github.com/user-attachments/assets/25713811-b3cb-44eb-9a3b-5edf6926aa1a" />
+<img width="1345" height="586" alt="Image" src="https://github.com/user-attachments/assets/a7276a4e-138a-4ad1-8100-713d2e196080" />
+<img width="1330" height="619" alt="Image" src="https://github.com/user-attachments/assets/94029f7e-b978-4aff-b87a-619dad0ebfa6" />
